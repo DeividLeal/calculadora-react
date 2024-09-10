@@ -26,7 +26,7 @@ Como Executar o Projeto
 Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-nome-de-usuário/calculadora-react.git
+git clone https://github.com/DeividLeal/calculadora-react.git
 ```
 
 Navegue até o diretório do projeto:
