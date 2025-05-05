@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <h1>Calculadora em React 🖩</h1>
 <p>Este é um projeto para uma calculadora simples desenvolvida com React. A calculadora permite realizar operações básicas como adição, subtração, multiplicação e divisão.</p>
 
@@ -15,27 +14,11 @@
 </ul>
 
 <h2>Tecnologias Utilizadas</h2>
-=======
-Calculadora em React
-Este é um projeto para uma calculadora simples desenvolvida com React. A calculadora permite realizar operações básicas como adição, subtração, multiplicação e divisão.
-
-Recursos
-
-- Adição (+)
-- Subtração (-)
-- Multiplicação (x)
-- Divisão (÷)
-- Limpar (C)
-- Tela para exibir os resultados
-
-Tecnologias Utilizadas
->>>>>>> a517515 (ajuste arquivo)
 
 - React: Biblioteca JavaScript para construir interfaces de usuário.
 - CSS: Estilização da interface da calculadora.
 - JavaScript: Lógica para operações matemáticas.
 
-<<<<<<< HEAD
 <h2>Pré-requisitos</h2>
 <p>Antes de começar, você precisará ter o Node.js e o npm instalados. </p>
 
@@ -44,16 +27,6 @@ Clone o repositório:
 
 ```bash
 git clone https://github.com/DeividLeal/calculadora-react.git
-=======
-Pré-requisitos
-Antes de começar, você precisará ter o Node.js e o npm instalados.
-
-Como Executar o Projeto
-Clone o repositório:
-
-```bash
-git clone https://github.com/seu-nome-de-usuário/calculadora-react.git
->>>>>>> a517515 (ajuste arquivo)
 ```
 
 Navegue até o diretório do projeto:
@@ -73,12 +46,3 @@ Execute o projeto:
 ```bash
 npm start
 ```
-<<<<<<< HEAD
-=======
-
-O projeto estará disponível em: .
-
-Acesse o Projeto Online
-Você pode ver a calculadora em ação clicando aqui.
-[Link para a calculadora online](https://example.com)
->>>>>>> a517515 (ajuste arquivo)
